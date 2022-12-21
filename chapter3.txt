@@ -1,1 +1,1 @@
-This is the third chapter of the new storyline. Now, let's bash some git.
+Now I am gonna make some changes and then commit them. Then, I am gonna follow the same procedure and check if the rollback function happens or not.
